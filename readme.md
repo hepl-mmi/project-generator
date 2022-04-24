@@ -17,7 +17,7 @@ Ce [workflow](https://www.alfredapp.com/workflows/) réalise dans l’ordre :
 7. Lance un serveur [node.js](https://nodejs.org/en/) avec [Browsersync](https://browsersync.io).
 
 
-
+https://user-images.githubusercontent.com/8074967/164982354-d5837f3f-a6ef-4abe-ad68-39c134e03f75.mp4
 
 
 
